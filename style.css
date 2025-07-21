@@ -251,7 +251,6 @@ a{
     .main-section{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-       padding: 10px 100px 10px 10px;
     }
     .card-container{
         display: grid;
